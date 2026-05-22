@@ -40,6 +40,27 @@ Os produtos gerados neste repositório podem ser consumidos diretamente através
 1.  **Mapas de Citações:** Identificação de conexões comuns entre os modelos matemáticos de poluentes e as regras do Expert Sinta.
 2.  **Bases de Conhecimento Sintetizadas:** Resumos gerados por IA que isolam variáveis difusas (*fuzzy*) aplicadas a cenários práticos de diagnóstico.
 
+
+## 📂 Materiais e Artefatos do Projeto
+
+Abaixo estão os links diretos para visualização e download dos arquivos gerados pelo NotebookLM neste estudo sobre **Normopatia e Sistemas Especialistas**:
+
+### 📄 Documentação e Análises
+*   [**PDF** - Computational Diagnosis of Normopathy](./Computational_Diagnosis_of_Normopathy.pdf) — *Estudo analítico completo gerado a partir do mapeamento bibliográfico.*
+*   [**Áudio** - Detectando Normopatia com Sistemas Especialistas](./Detectando_normopatia_com_sistemas_especialistas.m4a) — *Podcast explicativo/foco em áudio gerado pela IA (Clique para baixar/ouvir).*
+
+### 🗺️ Mapas Visuais e Gráficos
+*   [**Mind Map** - NotebookLM Mind Map](./NotebookLM%20Mind%20Map.png) — *Mapa mental da estrutura de conhecimento.*
+
+---
+
+### 🖼️ Visualização Direta dos Mapas Mentais
+
+**Estrutura do Mind Map:**
+![NotebookLM Mind Map](./NotebookLM%20Mind%20Map.png)
+
+**Artefato Adicional:**
+![Unnamed Artifact](./unnamed.png)
 ---
 
 <p align="center">
