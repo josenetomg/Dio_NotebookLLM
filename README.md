@@ -1,12 +1,3 @@
-Para transformar a descrição do seu repositório no GitHub em um arquivo README.md altamente profissional, atraente e bem estruturado, apliquei técnicas de escrita técnica voltadas para portfólios de desenvolvedores.
-
-Como o seu projeto une uma curadoria bibliográfica profunda e técnica ao ecossistema moderno de IA do **NotebookLM** da Google, estruturei o texto destacando o valor da engenharia de conhecimento e o cruzamento entre ferramentas consolidadas (como o clássico *Expert Sinta*) e as novas abordagens de Modelos de Linguagem de Grande Porte (LLMs).
-
-Substitua o conteúdo atual do seu arquivo README.md pelo código Markdown abaixo. Ele foi otimizado para que recrutadores e outros desenvolvedores entendam o valor científico e técnico do seu projeto logo nos primeiros segundos de leitura.
-
----
-
-```markdown
 # Mapeamento de Sistemas Especialistas e Tomada de Decisão Computacional via NotebookLM
 
 <p align="center">
